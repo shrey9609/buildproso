@@ -1,0 +1,78 @@
+body {
+  background: #f5f5f5;
+}
+#top-bar {
+  float:top;
+  width:1310px;
+  height:70px;
+  background-color:#7A0000;
+  margin:-70px;
+  padding:0px;
+		 }
+.fixed-width {
+  width:1200px;
+  margin:70px 0px 0px 100px;
+ }
+ p{
+  font-size:140%;
+ }	 	
+ 	 	
+ #ac {
+  float:left;
+  color:#FFF;
+  height:46px;
+  width:50px;
+  font-family: cursive;
+ }
+	 	
+ #top-menu ul {
+  float:right;
+  padding:0; 
+  margin:0;
+ 	height:46px;
+ }
+ 	 	
+ #top-menu li {
+  float:left;
+  color:white;
+  border-left:1px solid #990000;
+  height:33px;
+  list-style:none;
+  padding: 13px 20px 0 15px;
+ }
+ 	 	
+#top-menu li:hover {
+ 	height:28px;
+ }
+ #top-menu input {
+  height:25px;
+  border:none;
+  width:180px;
+  font-weight:bold;
+  color:black;
+  font-size:110%;
+  padding-left:10px;
+  position:relative;
+  top:-4px;
+ }
+ 	
+ #about:hover {
+ 	 	 border-bottom:5px solid blue;
+ }
+ 	 	
+ #portfolio:hover {
+ 	 	 border-bottom:5px solid #FFD033;
+ }
+ #contact:hover {
+ 	 	 border-bottom:5px solid #77cdff;
+ }
+.bg {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url("https://drive.google.com/open?id=0B2at4yOUPrYpbExubm5kdGNWTFE"); 
+  background-size: cover;
+}
+ 
